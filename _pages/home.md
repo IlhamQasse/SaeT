@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "SaeT Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "SaeT Lab at Polytechnique Montréal."
 sitemap: false
 permalink: /
 ---
